@@ -1,6 +1,8 @@
 # HumiraHelper
 
-Zero UI chatbot with a conversational AI designed to support patients beyond available resources, using the [Node.js client library](https://github.com/actions-on-google/actions-on-google-nodejs) and deployed on [Cloud Functions for Firebase](https://firebase.google.com/docs/functions/).
+**Winner of the "Awesomeness Prize" (1st place award) at AbbVie's HackVie in June 2019.**
+
+Zero UI chatbot on Google Assistant with a conversational AI designed to support patients beyond available resources. Uses the [Node.js client library](https://github.com/actions-on-google/actions-on-google-nodejs) and [Dialogflow API](https://console.dialogflow.com), deployed on [Google Cloud Functions for Firebase](https://firebase.google.com/docs/functions/).
 
 ## Setup
 
@@ -15,7 +17,7 @@ Zero UI chatbot with a conversational AI designed to support patients beyond ava
 #### Actions Console
 1. From the [Actions on Google Console](https://console.actions.google.com/), New project (this will be your *Project ID*) > **Create Project** > under **More options** > **Conversational**
 1. From the top menu under **Develop** > **Actions** (left nav) > **Add your first action** > **BUILD** (this will bring you to the Dialogflow console) > Select language and time zone > **CREATE**.
-1. In the Dialogflow console, go to **Settings** ⚙ > **Export and Import** > **Restore from zip** using the `dialogflow.zip` in this sample's directory.
+1. In the Dialogflow console, go to **Settings** ⚙ > **Export and Import** > **Restore from zip** using the `dialogflow.zip` in this repository.
 
 #### Firebase Deployment
 1. On your local machine, in the `firebase/functions` directory, run `npm install`
