@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f156fcc4-7a90-40eb-9846-1efc5c7d3607",
+    "data": [
+      {
+        "text": "Yes. Can I see the tutorial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31fe044d-21a5-4f7c-bd42-8f8ba9f2cb19",
+    "data": [
+      {
+        "text": "Yes. Can I see the video tutorial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55087515-ff2b-4aa9-b938-895130699da2",
+    "data": [
+      {
+        "text": "Yes. I need a refresher.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5df0ae44-1974-4ae3-ab19-71070d895192",
+    "data": [
+      {
+        "text": "Yes. Can I see a demonstration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

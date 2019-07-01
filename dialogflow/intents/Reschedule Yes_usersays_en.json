@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ce39e5c5-8fa1-48f8-8b19-973d4ca24ae6",
+    "data": [
+      {
+        "text": "No can I reschedule to ",
+        "userDefined": false
+      },
+      {
+        "text": "July 3rd 2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at  ",
+        "userDefined": false
+      },
+      {
+        "text": "2pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9c1ef28-4d03-4ce9-844e-cc4b34d01eb4",
+    "data": [
+      {
+        "text": "No I want to reschedule for ",
+        "userDefined": false
+      },
+      {
+        "text": "July 3rd 2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "2pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

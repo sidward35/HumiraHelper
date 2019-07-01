@@ -1,0 +1,38 @@
+{
+  "id": "20be54ec-c161-4416-9b57-e635a9fc32e2",
+  "name": "Get Name",
+  "auto": true,
+  "contexts": [
+    "get_name"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "fetch_data",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2f8eb66a-cc05-45aa-a539-49123c37bb45",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

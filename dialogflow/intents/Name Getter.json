@@ -1,0 +1,36 @@
+{
+  "id": "d1c1c422-f23f-41e8-b1a1-08757e718851",
+  "name": "Name Getter",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6909954e-8398-40de-af81-77ff7626f61f",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

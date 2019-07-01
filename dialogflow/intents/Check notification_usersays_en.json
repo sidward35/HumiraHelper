@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2be67697-364b-4ae9-ac41-103badd7c854",
+    "data": [
+      {
+        "text": "What notifications do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c189b1f2-ead2-4412-8884-01007ffb5d08",
+    "data": [
+      {
+        "text": "What are my notifications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1569284-2b63-4232-97c7-dd7619f6340d",
+    "data": [
+      {
+        "text": "Check notifications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b4e4670-79a0-4078-8a85-7559757c11d4",
+    "data": [
+      {
+        "text": "Check my notifications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

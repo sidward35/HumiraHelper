@@ -1,0 +1,62 @@
+[
+  {
+    "id": "64a2e060-eb18-4345-bca6-b2400ccc2390",
+    "data": [
+      {
+        "text": "nah i\u0027m good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "178cdc4a-c394-4b65-b320-5cbe0ddf095d",
+    "data": [
+      {
+        "text": "no more questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1046a794-315d-496a-b2f2-7dd450a0449a",
+    "data": [
+      {
+        "text": "no additional questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f042bdd-8e02-473c-8f1e-a9d8874245ae",
+    "data": [
+      {
+        "text": "No thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a979e9d5-3133-47ae-888e-f9662b6819dc",
+    "data": [
+      {
+        "text": "No thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

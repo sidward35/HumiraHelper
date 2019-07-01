@@ -1,0 +1,27 @@
+{
+  "id": "161cfe91-6a31-4b3d-b785-354b08b48c68",
+  "name": "Botox",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "By the way you have your Botox injection scheduled for 9 AM tomorrow. Have a great day!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

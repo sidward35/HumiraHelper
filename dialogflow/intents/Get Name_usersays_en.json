@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6b1c51fe-8dc5-4f6f-975f-05c46f5860de",
+    "data": [
+      {
+        "text": "Elisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "504d2aff-b972-4aab-8169-33d919eac6cb",
+    "data": [
+      {
+        "text": "danny",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dff20516-723a-45b6-8fc8-41a37bbdae2e",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Sid",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

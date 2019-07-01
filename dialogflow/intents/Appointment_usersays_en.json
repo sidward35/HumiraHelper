@@ -1,0 +1,86 @@
+[
+  {
+    "id": "109e7f64-f240-4cd3-ae9b-06e52471ec3c",
+    "data": [
+      {
+        "text": "Hey google tell me about my upcoming appointments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f146fad-6d61-4ac0-be27-8f1023958090",
+    "data": [
+      {
+        "text": "Hey can you tell me about my appointments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0698ad7c-6db3-42ee-9bcf-bb3eb5211187",
+    "data": [
+      {
+        "text": "Hey when is my next appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13857458-4a7b-4044-91f0-b89c9332e95f",
+    "data": [
+      {
+        "text": "When is my next appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cf2ce2e-2f68-4400-8604-696621d1290b",
+    "data": [
+      {
+        "text": "Hey google when is my next appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3634159-3607-42dc-8598-4db534e8f817",
+    "data": [
+      {
+        "text": "Can you tell me about my appointments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73b40625-3382-47dd-a945-f277d0a1bf3f",
+    "data": [
+      {
+        "text": "Hey google, can you tell me about my appointments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
