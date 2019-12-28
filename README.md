@@ -1,6 +1,6 @@
 # HumiraHelper
 
-**Winner of the "Awesomeness Prize" (1st place award) at AbbVie's HackVie in June 2019.**
+**Winner of the 1st place award at AbbVie's HackVie in June 2019.**
 
 Zero UI chatbot on Google Assistant with a conversational AI designed to support patients beyond available resources. Uses the [Node.js client library](https://github.com/actions-on-google/actions-on-google-nodejs) and [Dialogflow API](https://console.dialogflow.com), deployed on [Google Cloud Functions for Firebase](https://firebase.google.com/docs/functions/).
 
